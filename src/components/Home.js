@@ -1,7 +1,6 @@
 import React from "react";
+import { username, city} from "../data/user";
 
-const username = "Liz";
-const city = "Nairobi"
 
 function Home() {
   return (
